@@ -75,6 +75,7 @@ a:hover{
 
 body{
 	background:url("yucheng03M11277716.jpg");  /*背景圖片*/
+	background-attachment: fixed; /*固定背景圖片 */
 	background:url("yucheng02M11277716.jpg");  /*背景圖片*/
 	background-attachment: fixed; /*固定背景圖片 */
 }
